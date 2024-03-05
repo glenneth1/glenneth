@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A personal blog</title>
+    <link>https://glenneth1.github.io/glenneth/</link>
+    <description>Recent content on A personal blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>copyright info, like license, year, author name, e.t.c.</copyright>
+    <lastBuildDate>Tue, 05 Mar 2024 09:32:53 +0300</lastBuildDate>
+    <atom:link href="https://glenneth1.github.io/glenneth/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Other post</title>
+      <link>https://glenneth1.github.io/glenneth/posts/other-post/</link>
+      <pubDate>Tue, 05 Mar 2024 09:32:53 +0300</pubDate>
+      <guid>https://glenneth1.github.io/glenneth/posts/other-post/</guid>
+      <description>Keep bloggin</description>
+    </item>
+    <item>
+      <title>Hello There!</title>
+      <link>https://glenneth1.github.io/glenneth/posts/hello/</link>
+      <pubDate>Tue, 05 Mar 2024 08:30:53 +0300</pubDate>
+      <guid>https://glenneth1.github.io/glenneth/posts/hello/</guid>
+      <description>A personal BLOG</description>
+    </item>
+    <item>
+      <title>My awesome blog</title>
+      <link>https://glenneth1.github.io/glenneth/blog/</link>
+      <pubDate>Thu, 21 Dec 2023 12:53:21 +0300</pubDate>
+      <guid>https://glenneth1.github.io/glenneth/blog/</guid>
+      <description>Posts Hello There! sometags General Kenobi&#xA;Other post Keep bloggin</description>
+    </item>
+  </channel>
+</rss>
