@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on A personal blog</title>
+    <title>Posts on GT - BLOG</title>
     <link>https://glenneth1.github.io/posts/</link>
-    <description>Recent content in Posts on A personal blog</description>
+    <description>Recent content in Posts on GT - BLOG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>copyright info, like license, year, author name, e.t.c.</copyright>
+    <copyright>copyright, 2024, Glenn Thompson</copyright>
     <lastBuildDate>Tue, 05 Mar 2024 14:34:19 +0300</lastBuildDate>
     <atom:link href="https://glenneth1.github.io/posts/feed.xml" rel="self" type="application/rss+xml" />
     <item>
